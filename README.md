@@ -26,7 +26,7 @@
 * Supported IOS : IOS 13 or above
 * Swift Frameworks : UIKit 
 * DataStorage : Firestore
-* Third party Libraries : Firebase
+* Third party Libraries : Firebase via CocoaPods - IQKeyboardManagerSwift via SPM
 * Pattern : MVC
 * Supported languages in App : English
 
