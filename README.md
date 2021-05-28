@@ -3,7 +3,7 @@
 
 <img height="62em" src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png"/> ![Swift](https://www.vectorlogo.zone/logos/swift/swift-icon.svg) <img height="67em" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png"/> ![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg) ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 
-
+<br />
 
 ## App Features: 
 
@@ -39,6 +39,11 @@
 ## Important Notes:
   
 - open your terminal type 'cd' and drag the project folder and type this line:
+```
+pod install
+```
+
+
 
 
 [website]: https://firebase.google.com/docs
@@ -50,7 +55,7 @@
 [mail]: https://docs.google.com/document/d/1lr2sMIhAithabtZI8SiRkRVTTFa_o0ZIsuZNKmo2lUo/edit?usp=sharing
 [youtube]: https://www.youtube.com/channel/UCaH0SjSVk045E165fGh9wjg
 
-
+<br />
 
 ## Contact Me:
 
